@@ -55,9 +55,11 @@ body {
 .container__imagem {
     margin: 2em 0;
 }
+/* DESKTOP */
 .container__caixa {
     margin: 0 6em;
 }
+/* FIM DESKTOP */
 .secundario {
     align-items: center;
     margin: 0 10em;

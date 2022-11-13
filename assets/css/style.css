@@ -28,7 +28,7 @@ body {
     text-align: center;
 }
 .container {
-    height: 70vh;
+    height: 80vh;
 }
 .container__botao {
     background-color: var(--botao-azul);
@@ -57,4 +57,28 @@ body {
 .container__imagem {
     width: 78%;
     margin-bottom: 38px;
+}
+.secundario {
+    text-align: center;
+    align-items: center;
+    margin: 0 1.7em;
+}
+.secundario__imagem {
+    align-items: center;
+
+    width: 80%;
+}
+.container__descricao {
+    margin: 0 1em;
+    text-align: left;
+}
+.descricao__titulo {
+    font-size: 1.8em;
+    font-weight: 700;
+    color: var(--branco-principal);
+    margin-bottom: 0.3em;
+}
+.descricao__texto {
+    line-height: 24px;
+    color: var(--cinza-secundario);
 }
